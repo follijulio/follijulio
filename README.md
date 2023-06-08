@@ -20,6 +20,8 @@
       LEARNING
     </h3>
     <img align="center" alt="Gui-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Gui-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
+    <img align="center" alt="Gui-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Gui-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Gui-TS" height="50" width="50" src="[https://www.svgrepo.com/show/303481/css-3-logo.svg](https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=avif&w=256)" />
   </div>
 </main>
