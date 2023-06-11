@@ -1,7 +1,9 @@
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=netuno14&label=Visitas%20&color=0e75b6&style=flat" alt="danielfireman" /> </p>
+
 <main>
 <h1 align="left">Júlio César 🥇</h1>
- 
+ <a herf="https://github.com/NETUNO14">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=netuno14&label=visits%20&color=0e75b6&style=flat" alt="netuno14" /> </p>
+ </a>
   <p>
     <h2>IT student at federal institute of Alagoas ⭐</h2>
   </p>
