@@ -20,7 +20,7 @@
    <h3>
      LEARNING
    </h3>
-    <img align="center" alt="Gui-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt=" React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Gui-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
     <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
     <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
