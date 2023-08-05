@@ -1,13 +1,13 @@
 <main>
  <h1 align="left">Júlio César 🥇</h1
-  
+
   <p>
    <h2>IT student at federal institute of Alagoas ⭐</h2>
   </p>
   <div align="left">
-   <a href="https://github.com/NETUNO14">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NETUNO14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETUNO14&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://github.com/folli14">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLI14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLI14&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div>
    <h3>
