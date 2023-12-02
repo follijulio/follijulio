@@ -5,9 +5,9 @@
    <h2>IT student at federal institute of Alagoas ⭐</h2>
   </p>
   <div align="left">
-   <a href="https://github.com/folli14">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLI14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLI14&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://github.com/follijulio">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLIJULIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLIJULIO&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div>
    <h3>
