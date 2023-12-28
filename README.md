@@ -1,32 +1,37 @@
 <main>
- <h1 align="left">Júlio César 🥇</h1
-
-  <p>
-   <h2>IT student at federal institute of Alagoas ⭐</h2>
-  </p>
-  <div align="left">
-   <a href="https://github.com/follijulio">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLIJULIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLIJULIO&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  <div>
-   <h3>
-    SKILLS
-   </h3>
-   <img align="center" alt="Gui-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" />
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-   <img align="center" alt="Gui-TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  </div>
-  <div>
-   <h3>
-     LEARNING
-   </h3>
-    <img align="center" alt=" React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Gui-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
-    <img align="center" alt="Gui-JS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" />
-  </div>
- </main>
+    <div id="TOP">
+        <div align="center">
+            <img src="https://komarev.com/ghpvc/?username=follijulio&label=Visitas%20&color=0e75b6&style=flat" alt="follijulio" />
+        </div>
+        <h1>
+            <p>
+                Hi 😃, I'm Júlio ☭
+            </p>
+            <p>
+                IT student at Federal Institute of Alagoas ⭐
+            </p>
+        </h1>
+    </div>
+    <div align="left">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLIJULIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLIJULIO&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+    <div>
+        <div align="left">
+            <h3>SKILLS</h3>
+            <img alt="Java" src="https://img.shields.io/badge/Java-F74141?style=for-the-badge&logo=Java">
+            <img alt="React" src="https://img.shields.io/badge/React-191920?style=for-the-badge&logoColor=61DBFB&logo=React">
+            <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+            <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+            <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238">
+            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1D4A65?style=for-the-badge&logoColor=white&logo=MySQL">
+        </div>
+        <div>
+            <h3>LEARNING</h3>
+            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-191920?style=for-the-badge&logoColor=9400D31&logo=Kotlin">
+            <!-- Adicione aqui os emblemas (shields) para as tecnologias que está aprendendo -->
+        </div>
+    </div>
+</main>
