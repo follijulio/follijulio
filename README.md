@@ -12,9 +12,9 @@
             </p>
         </h1>
     </div>
-    <div align="left">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FOLLIJULIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOLLIJULIO&layout=compact&langs_count=7&theme=dark"/>
+    <div align="center">
+        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=follijulio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
     <div>
         <div align="left">
