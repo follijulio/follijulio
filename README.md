@@ -37,8 +37,8 @@
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&Color=black">
 <img alt="Git" src="https://img.shields.io/badge/git%20-000000.svg?&style=for-the-badge&logo=git&logoColor=white&Color=black">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011?.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">
-        </div>
-        <div>
+            </div>
+            <div>
             <h3>LEARNING</h3>
 <img alt="Swift" src="https://img.shields.io/badge/swift-23121011.svg?&style=for-the-badge&logo=swift&logoColor=white&color=000">
 <img alt="GO" src="https://img.shields.io/badge/go-23121011.svg?&style=for-the-badge&logo=go&logoColor=white&color=000">
