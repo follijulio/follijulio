@@ -29,9 +29,9 @@
 <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&Color=black">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white&Color=black">
 <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logoColor=white&logo=React&Color=black">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white&Color=000000"><!---->
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-000000.svg?&style=for-the-badge&logo=css3&logoColor=white&Color=black"><!---->
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logoColor=white&logo=MySQL&Color=black"><!---->
+<img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white&Color=000000">
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-000000.svg?&style=for-the-badge&logo=css3&logoColor=white&Color=black">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logoColor=white&logo=MySQL&Color=black">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&Color=black">
 <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&Color=black">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&Color=black">
