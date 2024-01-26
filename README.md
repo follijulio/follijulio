@@ -35,7 +35,6 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-000000.svg?&style=for-the-badge&logo=css3&logoColor=white&Color=black">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?&style=for-the-badge&logoColor=white&logo=MySQL&Color=black">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&Color=black">
-<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&Color=black">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&Color=black">
 <img alt="Git" src="https://img.shields.io/badge/git%20-000000.svg?&style=for-the-badge&logo=git&logoColor=white&Color=black">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011?.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">
