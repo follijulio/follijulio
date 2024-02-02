@@ -27,6 +27,7 @@
         </div>
         <div align="left">
             <h3>SKILLS WITH</h3>
+             <a href="https://github.com/follijulio">
 <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&Color=black">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white&Color=black">
@@ -40,9 +41,11 @@
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&Color=black">
 <img alt="Git" src="https://img.shields.io/badge/git%20-000000.svg?&style=for-the-badge&logo=git&logoColor=white&Color=black">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011?.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">
+                 <a>
             </div>
             <div>
             <h3>LEARNING</h3>
+                 <a href="https://github.com/follijulio">
 <img alt="Swift" src="https://img.shields.io/badge/swift-23121011.svg?&style=for-the-badge&logo=swift&logoColor=white&color=000">
 <img alt="GO" src="https://img.shields.io/badge/go-23121011.svg?&style=for-the-badge&logo=go&logoColor=white&color=000">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-23121011.svg?&style=for-the-badge&logo=php&logoColor=white&color=000">
@@ -50,6 +53,7 @@
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-23121011.svg?&style=for-the-badge&logo=flutter&logoColor=white&color=000">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=000">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-191920?style=for-the-badge&logoColor=white&logo=Kotlin&color=000">
-        </div>
+                     <a>
+            </div>
     </div>
 </main>
