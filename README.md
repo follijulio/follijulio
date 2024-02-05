@@ -46,12 +46,12 @@
             <div>
             <h3>LEARNING</h3>
                  <a href="https://github.com/follijulio">
+<img alt="TypeScript" src="https://img.shields.i+o/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=000">
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-23121011.svg?&style=for-the-badge&logo=flutter&logoColor=white&color=000">
 <img alt="Swift" src="https://img.shields.io/badge/swift-23121011.svg?&style=for-the-badge&logo=swift&logoColor=white&color=000">
 <img alt="GO" src="https://img.shields.io/badge/go-23121011.svg?&style=for-the-badge&logo=go&logoColor=white&color=000">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-23121011.svg?&style=for-the-badge&logo=php&logoColor=white&color=000">
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-23121011.svg?&style=for-the-badge&logo=ruby&logoColor=white&color=000">            
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-23121011.svg?&style=for-the-badge&logo=flutter&logoColor=white&color=000">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=000">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-191920?style=for-the-badge&logoColor=white&logo=Kotlin&color=000">
                      <a>
             </div>
