@@ -42,7 +42,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-000000.svg?&style=for-the-badge&logo=git&logoColor=white&Color=black">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011?.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">
                  <a>
-            </div>
+            </div> 
             <div>
             <h3>LEARNING</h3>
                  <a href="https://github.com/follijulio">
