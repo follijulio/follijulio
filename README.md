@@ -23,7 +23,7 @@
     <div>
         <div align="left">
             <h3>TEACHING IN</h3>
-                <img alt="PORTUGOL" src="https://img.shields.io/badge/PORTUGOL-23121011.svg?&style=for-the-badge&logo=portugol&logoColor=white&color=000">
+<img alt="PORTUGOL" src="https://img.shields.io/badge/PORTUGOL-23121011.svg?&style=for-the-badge&logo=portugol&logoColor=white&color=000">
         </div>
         <div align="left">
             <h3>SKILLS WITH</h3>
