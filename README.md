@@ -30,6 +30,7 @@
              <a href="https://github.com/follijulio">
 <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&Color=black">
+<img alt="json" src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&Color=black">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white&Color=black">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white&Color=000000">
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-000000.svg?&style=for-the-badge&logo=css3&logoColor=white&Color=black">
