@@ -5,7 +5,7 @@
         </div>
         <h1>
             <p>
-                Hi 🙃, I'm Júlio ☭
+                Hi 😄, I'm Júlio ☭
             </p>
             <p>
                 IT student at Federal Institute of Alagoas ⭐
