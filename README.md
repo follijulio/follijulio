@@ -20,9 +20,13 @@
             <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
         </a>
     </div>
-    <div>
-        <h3>SKILLS WITH</h3>
-        <div style="display: flex; align-items: center; justify-content: center">
-          <img src="https://skillicons.dev/icons?i=java,c,tailwind,html,css,react,typescript,javascript,flutter,mysql,next,git,github,"/>
-        </div>
+    </br>
+    </br>
+    </br>
+    </br>
+    <div align="center">
+        <h1>experiential or learning languages</h1>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,c,tailwind,html,css,react,typescript,javascript,flutter,mysql,go,next,ruby,git,github,"/>
+    </div>
 </main>
