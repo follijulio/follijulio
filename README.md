@@ -14,9 +14,7 @@
     </div>
     <div align="center">
         <a href="https://github.com/follijulio">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=follijulio&theme=dark&hide_border=true">
-            </br>
-           <img src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=dark&show_icons=true&hide_border=true&count_private=true">
+            <img src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=dark&show_icons=true&hide_border=true&count_private=true">
             <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&layout=compact&hide_border=true&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
         </a>
     </div>
