@@ -1,7 +1,7 @@
 <main>
     <div id="TOP">
         <div align="center">
-            <img src="https://komarev.com/ghpvc/?username=follijulio&label=Visitas%20&color=0e75b6&style=flat" alt="follijulio" />
+            <img src="https://komarev.com/ghpvc/?username=follijulio&label=visits%20&color=0e75b6&style=flat" alt="follijulio" />
         </div>
         <h1>
             <p>
