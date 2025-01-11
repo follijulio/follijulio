@@ -22,6 +22,6 @@
     <div align="center">
         <h1>languages ​​that I have experience or am studying</h1>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,c,tailwind,html,css,react,typescript,javascript,flutter,mysql,go,next,ruby,git,github,dart,py,lua"/>
+        <img src="https://skillicons.dev/icons?i=java,c,tailwind,html,css,react,typescript,javascript,flutter,mysql,go,next,ruby,git,github,dart,py,lua,postgresql"/>
     </div>
 </main>
