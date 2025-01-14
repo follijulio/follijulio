@@ -20,8 +20,12 @@
     </div>
     </br>
     <div align="center">
-        <h1>languages ​​that I have experience or am studying</h1>
+        <h1>technologies I have experience with</h1>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,c,tailwind,html,css,react,typescript,javascript,flutter,mysql,go,next,ruby,git,github,dart,py,lua,postgresql"/>
+        <img src="https://skillicons.dev/icons?i=java,c,react,tailwind,html,css,javascript,typescript,flutter,mysql,next,dart,py,git,github"/>
+    <div align="center">
+        <h1>technologies I'm learning</h1>
+    <div>
+        <img src="https://skillicons.dev/icons?i=go,ruby,lua,postgresql,vite"/>
     </div>
 </main>
