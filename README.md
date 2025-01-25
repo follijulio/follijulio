@@ -1,7 +1,7 @@
 <main>
 <div id="TOP">
 <div align="center">
-### Profile Views
+
 
 Counting of visitors to this page in this section started from Jan 24, 2025
 
