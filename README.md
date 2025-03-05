@@ -12,7 +12,7 @@ Counting of visitors to this page in this section started from Jan 24, 2025
             Hi 😃, I'm Júlio ☭
         </p>
         <p>
-            IT student at Federal Institute of Alagoas ⭐
+          Graduated in IT from the Federal Institute of Alagoas ⭐
         </p>
     </h1>
 </div>
