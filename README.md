@@ -26,10 +26,10 @@ Counting of visitors to this page in this section started from Jan 24, 2025
 <div align="center">
     <h1>technologies I have experience with</h1>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,c,react,tailwind,html,css,javascript,typescript,flutter,mysql,next,dart,py,git,github"/>
+        <img src="https://skillicons.dev/icons?i=java,c,nextjs,react,tailwind,html,css,javascript,typescript,git,github,discord"/>
     <div align="center">
         <h1>technologies I'm learning</h1>
         <div>
-            <img src="https://skillicons.dev/icons?i=go,ruby,lua,postgresql,vite"/>
+            <img src="https://skillicons.dev/icons?i=go,ruby,lua,postgresql,vite,prisma,mongodb,py,flutter,mysql,dart"/>
         </div>
 </main>
