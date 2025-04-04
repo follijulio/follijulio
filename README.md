@@ -1,18 +1,12 @@
 <main>
 <div id="TOP">
-<div align="center">
-
-
-Counting of visitors to this page in this section started from Jan 24, 2025
-
-![](https://count.getloli.com/get/@follijulio.github.readme)
 </div>
     <h1>
         <p>    
             Hi 😃, I'm Júlio ☭
         </p>
         <p>
-          Graduated in IT from the Federal Institute of Alagoas ⭐
+          Graduated in IT from the Federal Institute of Alagoas in 2025⭐
         </p>
     </h1>
 </div>
