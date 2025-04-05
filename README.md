@@ -20,10 +20,10 @@
 <div align="center">
     <h1>technologies I have experience with</h1>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,c,nextjs,react,tailwind,html,css,javascript,typescript,git,github,discord"/>
+        <img src="https://skillicons.dev/icons?i=java,c,nextjs,react,tailwind,html,css,javascript,typescript,git,github"/>
     <div align="center">
         <h1>technologies I'm learning</h1>
         <div>
-            <img src="https://skillicons.dev/icons?i=go,ruby,lua,postgresql,vite,prisma,mongodb,py,flutter,mysql,dart"/>
+            <img src="https://skillicons.dev/icons?i=go,postgresql,vite,prisma,mongodb,"/>
         </div>
 </main>
