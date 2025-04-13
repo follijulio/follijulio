@@ -56,9 +56,9 @@
     </br>
     	<div align="center">
     		<div style="flex-wrap: wrap">
-     			<img src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
-         		<img src="https://github-readme-streak-stats.herokuapp.com/?user=follijulio&theme=midnight-purple&hide_border=true" alt="Streak"/>
-	   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&theme=midnight-purple&langs_count=20&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+     			<img src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+         		<img src="https://github-readme-streak-stats.herokuapp.com/?user=follijulio&theme=midnight-purple&hide_border=true"/>
+	   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&theme=midnight-purple&langs_count=20&show_icons=true&hide_border=true&layout=compact"/>
 		</div>
  	</div>
 </main>
