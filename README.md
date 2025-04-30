@@ -42,7 +42,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
             </div>
             <h2>
-                TECHNOLOGIES I AM LEARNING
+                TECHNOLOGIES I AM LEARNING 📖
             </h2>
             <div>
 ![MYSQL](https://img.shields.io/badge/MySQL-1D4A65?style=for-the-badge&logoColor=white&logo=MySQL)
