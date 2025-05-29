@@ -5,7 +5,7 @@
                 Hi 😃, I'm Júlio
             </p>
             <p>
-                Graduated in IT from the Federal Institute⭐
+                Graduated in Computer Technician from the Federal Institute⭐
             </p>
         </h1>
     </div>
