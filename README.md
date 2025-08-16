@@ -2,7 +2,7 @@
     <div id="header">
         <h1>
             <p>    
-                Hi 😃, I'm Júlio
+                Hi, I'm Júlio
             </p>
             <p>
                 Graduated in Computer Technician from the Federal Institute⭐
