@@ -4,8 +4,6 @@
 
 ### Software Developer | Mathematics Student @ UFAL 🎓
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Fullstack+Software+Developer;Técnico+em+Informática+pelo+IFAL;Mathematics+%26+Computer+Science;TypeScript+|+Next.js+|+Node.js" alt="Typing SVG" />
-
 ---
 
 </div>
