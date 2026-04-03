@@ -2,7 +2,7 @@
 
 # Júlio César da Silva Folli
 
-### Software Developer | Mathematics Student @ UFAL 🎓
+### Software Developer | Mathematics Student UFAL 🎓
 
 ---
 
