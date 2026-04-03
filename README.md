@@ -40,17 +40,19 @@ Graduando em **Matemática (UFAL)** com transição para **Ciência da Computaç
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | [**ObservaDH**](https://github.com/nexus-ifal/ObservaDH) | Plataforma de observatório de dados voltada a Direitos Humanos. | `Next.js`, `Prisma`, `TypeScript` |
+| [**Netuno**](https://https://neptune-chi.vercel.app/) | Plataforma para monitoramento de estudos. | `Next.js`, `Prisma`, `TypeScript` |
 
 ---
 
-## 📊 Estatísticas
+<!-- ## 📊 Estatísticas -->
 
+<!--
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&theme=midnight-purple&layout=compact&hide_border=true" />
 </div>
-
 ---
+-->
 
 ## 📫 Conecte-se comigo
 
@@ -60,5 +62,6 @@ Graduando em **Matemática (UFAL)** com transição para **Ciência da Computaç
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:follijulio@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/5914564529954569)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/follijulio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/follijulio/)
 
 </div>
