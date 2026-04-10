@@ -40,7 +40,7 @@ Graduando em **Matemática (UFAL)** com transição para **Ciência da Computaç
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | [**ObservaDH**](https://github.com/nexus-ifal/ObservaDH) | Plataforma de observatório de dados voltada a Direitos Humanos. | `Next.js`, `Prisma`, `TypeScript` |
-| [**Netuno**](https://https://neptune-chi.vercel.app/) | Plataforma para monitoramento de estudos. | `Next.js`, `Prisma`, `TypeScript` |
+| [**Netuno**](https://neptune-chi.vercel.app/) | Plataforma para monitoramento de estudos. | `Next.js`, `Prisma`, `TypeScript` |
 
 ---
 
