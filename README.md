@@ -1,20 +1,29 @@
-<div align="center">
+```console
+julio@folli:~$ neofetch
+                   -`                    julio@folli
+                  .o+`                   -----------
+                 `ooo/                   OS: Arch Linux
+                `+oooo:                  WM: Hyprland
+               `+oooooo:                 Shell: bash
+               -+oooooo+:                Terminal: kitty
+             `/:-:++oooo+:               Role: Software Developer
+            `/++++/+++++++:              Education: Mathematics (UFAL)
+           `/++++++++++++++:             Background: Técnico em Informática (IFAL)
+          `/+++ooooooooooooo/`           Email: follijulio@gmail.com
+         ./ooosssso++osssssso+`          LinkedIn: /in/follijulio
+        .oossssso-````/ossssss+`         GitHub: @follijulio
+       -osssssso.      :ssssssso.        Lattes: 5914564529954569
+      :osssssss/        osssso+++.       LeetCode: follijulio
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
 
-# Júlio Folli
+julio@folli:~$ cd projects && ls
+[https://observadh.vercel.app/](https://observadh.vercel.app/)
+[https://eduarda-eta.vercel.app/](https://eduarda-eta.vercel.app/)
+[https://neptune-chi.vercel.app/](https://neptune-chi.vercel.app/)
+julio@folli:~/projects$ 
 
-### Software Developer | Mathematics Student UFAL
-
----
-
-Graduando em **Matemática (UFAL)** e formado como **Técnico em Informática (IFAL)**.
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/follijulio/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:follijulio@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/5914564529954569)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/follijulio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/follijulio/)
-
-</div>
+```
