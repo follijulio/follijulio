@@ -20,10 +20,6 @@ julio@folli:~$ neofetch
  `++:.                           `-/+/
  .`                                 `/
 
-julio@folli:~$ cd projects && ls
-[https://observadh.vercel.app/](https://observadh.vercel.app/)
-[https://eduarda-eta.vercel.app/](https://eduarda-eta.vercel.app/)
-[https://neptune-chi.vercel.app/](https://neptune-chi.vercel.app/)
-julio@folli:~/projects$ 
+julio@folli:~$ 
 
 ```
