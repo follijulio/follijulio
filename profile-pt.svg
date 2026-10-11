@@ -1,0 +1,141 @@
+<svg width="100%" viewBox="0 0 800 580" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Sombra sólida principal da moldura -->
+  <rect x="16" y="16" width="768" height="540" fill="#111111" />
+  <!-- Fundo Papel Creme -->
+  <rect x="10" y="10" width="768" height="540" fill="#FFFDF5" stroke="#111111" stroke-width="3" />
+
+  <!-- Etiqueta Perfil -->
+  <g transform="translate(30, 30)">
+    <rect x="2" y="2" width="130" height="28" fill="#111111" />
+    <rect x="0" y="0" width="130" height="28" fill="#FFCC00" stroke="#111111" stroke-width="2" />
+    <text x="12" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">PERFIL</text>
+  </g>
+
+  <!-- Botão de Troca de Idioma (Para Inglês) -->
+  <a xlink:href="https://github.com/follijulio/follijulio/blob/main/netuno-profile-en.svg">
+    <g transform="translate(675, 30)" style="cursor: pointer;">
+      <rect x="2" y="2" width="95" height="28" fill="#111111" />
+      <rect x="0" y="0" width="95" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+      <text x="16" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">ENGLISH</text>
+    </g>
+  </a>
+
+  <!-- Título Principal -->
+  <text x="30" y="95" font-family="sans-serif" font-weight="900" font-size="32" fill="#111111">follijulio</text>
+  <text x="30" y="120" font-family="monospace" font-size="14" fill="#393939">// Software Developer · Matemática (UFAL) · Técnico em Informática (IFAL)</text>
+
+  <!-- Linha divisória -->
+  <line x1="30" y1="135" x2="770" y2="135" stroke="#111111" stroke-width="2" />
+
+  <!-- Cartão 1: Ambiente -->
+  <g transform="translate(30, 155)">
+    <rect x="4" y="4" width="340" height="150" fill="#111111" />
+    <rect x="0" y="0" width="340" height="150" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <rect x="16" y="16" width="90" height="22" fill="#F4EDDB" stroke="#111111" stroke-width="1.5" />
+    <text x="24" y="31" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">AMBIENTE</text>
+    <text x="16" y="65" font-family="monospace" font-size="13" fill="#111111"><tspan font-weight="bold">OS:</tspan> Arch Linux</text>
+    <text x="16" y="90" font-family="monospace" font-size="13" fill="#111111"><tspan font-weight="bold">WM:</tspan> Hyprland</text>
+    <text x="16" y="115" font-family="monospace" font-size="13" fill="#111111"><tspan font-weight="bold">Shell:</tspan> bash</text>
+    <text x="16" y="140" font-family="monospace" font-size="13" fill="#111111"><tspan font-weight="bold">Terminal:</tspan> kitty</text>
+  </g>
+
+  <!-- Cartão 2: Formação & Papel -->
+  <g transform="translate(390, 155)">
+    <rect x="4" y="4" width="380" height="150" fill="#111111" />
+    <rect x="0" y="0" width="380" height="150" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <rect x="16" y="16" width="135" height="22" fill="#B8F2E6" stroke="#111111" stroke-width="1.5" />
+    <text x="24" y="31" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">FORMAÇÃO &amp; PAPEL</text>
+    <text x="16" y="65" font-family="sans-serif" font-size="13" fill="#111111"><tspan font-weight="bold">Role:</tspan> Software Developer</text>
+    <text x="16" y="95" font-family="sans-serif" font-size="13" fill="#111111"><tspan font-weight="bold">Education:</tspan> Matemática (UFAL)</text>
+    <text x="16" y="125" font-family="sans-serif" font-size="13" fill="#111111"><tspan font-weight="bold">Background:</tspan> Técnico em Informática (IFAL)</text>
+  </g>
+
+  <!-- Cartão 3: Projetos em Destaque -->
+  <g transform="translate(30, 325)">
+    <rect x="4" y="4" width="740" height="95" fill="#111111" />
+    <rect x="0" y="0" width="740" height="95" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <rect x="16" y="14" width="165" height="22" fill="#FFE066" stroke="#111111" stroke-width="1.5" />
+    <text x="24" y="29" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">PROJETOS EM DESTAQUE</text>
+    
+    <a xlink:href="https://portifolli.follijulio.online/">
+      <g transform="translate(16, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="105" height="28" fill="#111111" />
+        <rect x="0" y="0" width="105" height="28" fill="#F4EDDB" stroke="#111111" stroke-width="1.5" />
+        <text x="14" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Portfólio</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://www.estantejuno.online/">
+      <g transform="translate(131, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="75" height="28" fill="#111111" />
+        <rect x="0" y="0" width="75" height="28" fill="#F4EDDB" stroke="#111111" stroke-width="1.5" />
+        <text x="16" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Juno</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://multi.follijulio.online/pt/">
+      <g transform="translate(216, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="75" height="28" fill="#111111" />
+        <rect x="0" y="0" width="75" height="28" fill="#F4EDDB" stroke="#111111" stroke-width="1.5" />
+        <text x="16" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Multi</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://follijulio.github.io/nyx/">
+      <g transform="translate(301, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="75" height="28" fill="#111111" />
+        <rect x="0" y="0" width="75" height="28" fill="#F4EDDB" stroke="#111111" stroke-width="1.5" />
+        <text x="16" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Nyx</text>
+      </g>
+    </a>
+  </g>
+
+  <!-- Secção de Canais de Contato -->
+  <g transform="translate(30, 440)">
+    <rect x="4" y="4" width="740" height="95" fill="#111111" />
+    <rect x="0" y="0" width="740" height="95" fill="#F4EDDB" stroke="#111111" stroke-width="2" />
+    
+    <rect x="16" y="14" width="145" height="22" fill="#FF5B35" stroke="#111111" stroke-width="1.5" />
+    <text x="24" y="29" font-family="monospace" font-weight="bold" font-size="11" fill="#FFFFFF">CANAIS DE CONTATO</text>
+
+    <a xlink:href="mailto:follijulio@gmail.com">
+      <g transform="translate(16, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="65" height="28" fill="#111111" />
+        <rect x="0" y="0" width="65" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+        <text x="14" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Email</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://linkedin.com/in/follijulio">
+      <g transform="translate(91, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="88" height="28" fill="#111111" />
+        <rect x="0" y="0" width="88" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+        <text x="12" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">LinkedIn</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://github.com/follijulio">
+      <g transform="translate(189, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="78" height="28" fill="#111111" />
+        <rect x="0" y="0" width="78" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+        <text x="14" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">GitHub</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://lattes.cnpq.br/5914564529954569">
+      <g transform="translate(277, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="78" height="28" fill="#111111" />
+        <rect x="0" y="0" width="78" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+        <text x="16" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">Lattes</text>
+      </g>
+    </a>
+
+    <a xlink:href="https://leetcode.com/follijulio">
+      <g transform="translate(365, 48)" style="cursor: pointer;">
+        <rect x="2" y="2" width="98" height="28" fill="#111111" />
+        <rect x="0" y="0" width="98" height="28" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+        <text x="12" y="18" font-family="monospace" font-weight="bold" font-size="11" fill="#111111">LeetCode</text>
+      </g>
+    </a>
+  </g>
+</svg>
