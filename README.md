@@ -1,258 +1,92 @@
-
-<!--
-  FOLLIJULIO — GITHUB PROFILE
-  Design: Technical Editorial / Brutalist Minimalism
-  Repository: https://github.com/follijulio
--->
-
-<div align="center">
-
 # `follijulio`
 
-**JÚLIO CÉSAR DA SILVA FOLLI**
+**Júlio César da Silva Folli**
 
-*Software Developer · Mathematics Student · Technology Enthusiast*
+`Software Developer` · `Mathematics Student` · `Brazil`
 
-<br/>
+Building software, exploring mathematics and collecting federal universities.
 
-`building things` · `breaking limits` · `collecting federal universities`
-
-<br/>
-
-<a href="https://portifolli.follijulio.online/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-visit-ffffff?style=flat-square&logo=vercel&logoColor=000000" />
-</a>
-<a href="https://github.com/follijulio">
-  <img src="https://img.shields.io/badge/GITHUB-follijulio-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LEETCODE-profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
-
-<br/><br/>
-
-</div>
+[Portfolio](https://portifolli.follijulio.online/) · [Projects](https://github.com/follijulio?tab=repositories) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:SEU_EMAIL)
 
 ---
 
 ## `01` — ABOUT
 
-```typescript
-const julio = {
-  name: "Júlio César da Silva Folli",
-  username: "follijulio",
-  location: "Brazil",
+Software developer with a technical background in Information Technology (IFAL) and currently studying Mathematics at the Federal University of Alagoas (UFAL).
 
-  education: {
-    university: "UFAL",
-    degree: "BSc Mathematics",
-    technical: "IFAL — IT Technician"
-  },
+Interested in software engineering, frontend development, problem-solving and the intersection between mathematics and computing.
 
-  interests: [
-    "Software Engineering",
-    "Frontend Development",
-    "Computer Science",
-    "Mathematics",
-    "Open Source"
-  ],
-
-  philosophy: "Understand deeply. Build deliberately."
-};
-```
-
-I'm a developer with a technical background in Information Technology and an academic journey through Mathematics at the Federal University of Alagoas (UFAL).
-
-Interested in the intersection between logical reasoning, software engineering and interface design. I enjoy building applications, exploring technologies and turning ideas into functional products.
-
-Currently studying Mathematics, developing software and working towards the next chapter in Computer Science.
-
----
-
-## `02` — DEVELOPMENT ENVIRONMENT
-
-<details open>
-<summary><b>System configuration · ~/.env</b></summary>
+## `02` — ENVIRONMENT
 
 ```ini
-# ─────────────────────────────────────────
-# SYSTEM
-# ─────────────────────────────────────────
+OS        = Arch Linux
+WM        = Hyprland
+TERMINAL  = Kitty
+SHELL     = Bash / Zsh
 
-OS=Arch Linux
-WM=Hyprland
-TERMINAL=Kitty
-SHELL=Bash / Zsh
-
-# ─────────────────────────────────────────
-# DEVELOPMENT
-# ─────────────────────────────────────────
-
-LANGUAGES=JavaScript, TypeScript, C, Go
-FRAMEWORKS=React, Next.js
-STYLING=Tailwind CSS
-RUNTIME=Node.js
-VERSION_CONTROL=Git
-PLATFORM=GitHub
-
-# ─────────────────────────────────────────
-# WORKFLOW
-# ─────────────────────────────────────────
-
-EDITOR=Code Editor
-PHILOSOPHY=Minimalism
-FOCUS=Engineering & Mathematics
+LANGUAGES = JavaScript, TypeScript, C, Go
+STACK     = React, Next.js, Tailwind CSS
+TOOLS     = Git, GitHub, Node.js
 ```
 
-</details>
-
-**Core technologies**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,go,react,nextjs,nodejs,tailwind,html,css,git,github&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,go,react,nextjs,nodejs,tailwind,git,github&theme=dark" />
 </p>
 
 ---
 
-## `03` — FEATURED WORKS
+## `03` — FEATURED PROJECTS
 
-Selected projects, experiments and digital products.
+**[Portifolli ↗](https://portifolli.follijulio.online/)** — Personal portfolio and development showcase.
 
-### [`01` — PORTIFOLLI](https://portifolli.follijulio.online/)
+**[Juno ↗](https://www.estantejuno.online/)** — Digital bookshelf and personal reading manager.
 
-**Personal Portfolio**
+**[Multi ↗](https://multi.follijulio.online/pt/)** — Digital application and web development project.
 
-My central digital space. A presentation of my work, technical background, projects and development journey.
-
-`PORTFOLIO` `WEB DEVELOPMENT`
-
----
-
-### [`02` — JUNO](https://www.estantejuno.online/)
-
-**Personal Digital Library**
-
-A digital bookshelf designed to organize books, manage reading progress and centralize a personal reading collection.
-
-`NEXT.JS` `REACT` `OPEN LIBRARY`
-
----
-
-### [`03` — MULTI](https://multi.follijulio.online/pt/)
-
-**Multi — Digital Project**
-
-A web-based project developed as part of my exploration of software engineering, application architecture and user experience.
-
-`WEB APPLICATION` `DEVELOPMENT`
-
----
-
-### [`04` — NYX](https://follijulio.github.io/nyx/)
-
-**NYX — Web Experiment**
-
-An independent project hosted through GitHub Pages, representing my experiments with frontend development and digital interfaces.
-
-`GITHUB PAGES` `FRONTEND`
-
----
-
-<div align="center">
-
-**MORE PROJECTS**
+**[Nyx ↗](https://follijulio.github.io/nyx/)** — Frontend experiment hosted on GitHub Pages.
 
 [Explore all repositories →](https://github.com/follijulio?tab=repositories)
 
-</div>
-
 ---
-
 
 ## `04` — GITHUB ANALYTICS
 
 <div align="center">
 
-### Contribution Overview
 
-<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Contribution Overview" />
+<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<br/>
 
-### Development Statistics
-
-<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=follijulio&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-### Language Distribution
-
-<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repository Languages" />
-<img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Languages" />
+<img width="33%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img width="33%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img width="33%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 
 </div>
 
 ---
 
+## `05` — EDUCATION
 
+**UFAL** — Mathematics · Undergraduate
 
-## `05` — ACADEMIC BACKGROUND
-
-**UFAL — Federal University of Alagoas**
-
-`UNDERGRADUATE STUDENT`
-
-Bachelor's degree studies in Mathematics. Developing analytical thinking, mathematical reasoning and problem-solving skills.
-
-**IFAL — Federal Institute of Alagoas**
-
-`TECHNICAL EDUCATION`
-
-Technical qualification in Information Technology, establishing my foundation in programming, computing and software development.
+**IFAL** — Technical Degree in Information Technology
 
 ---
 
-## `06` — CONNECT
+## `06` — CONTACT
 
-Open to technical discussions, collaborations, interesting projects and knowledge exchange.
-
-<div align="center">
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-contact-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/SEU_USUARIO/">
-  <img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/follijulio">
-  <img src="https://img.shields.io/badge/GITHUB-follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://lattes.cnpq.br/SEU_ID">
-  <img src="https://img.shields.io/badge/LATTES-academic-245B35?style=for-the-badge&logo=academia&logoColor=white" />
-</a>
-<a href="https://leetcode.com/SEU_USUARIO/">
-  <img src="https://img.shields.io/badge/LEETCODE-practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
+[Email](mailto:SEU_EMAIL) · [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO/) · [GitHub](https://github.com/follijulio) · [Lattes](https://lattes.cnpq.br/SEU_ID) · [LeetCode](https://leetcode.com/SEU_USUARIO/)
 
 ---
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   THINK MATHEMATICALLY.                      │
-│   BUILD COMPUTATIONALLY.                     │
-│   CREATE INTENTIONALLY.                      │
-│                                              │
-└──────────────────────────────────────────────┘
+THINK MATHEMATICALLY.
+BUILD COMPUTATIONALLY.
+CREATE INTENTIONALLY.
 ```
 
-**`follijulio`** · Made with logic and curiosity.
-
-<sub>© Júlio César da Silva Folli · 2026</sub>
+<sub>© 2026 · Júlio César da Silva Folli</sub>
 
 </div>
