@@ -1,0 +1,29 @@
+
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: follijulio
+          BRANCH_NAME: ${{ github.event.repository.default_branch }}
+          TIME_ZONE: America/Maceio
+          THEME: github_dark
+          AUTO_PUSH: true
